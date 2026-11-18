@@ -1,4 +1,4 @@
-# ✂️ Hari Sathees — Portfolio
+# Hari Sathees — Portfolio
 
 A hand-made, **scrapbook-style developer portfolio**: torn paper notes, washi tape, stickers, wobbly
 hand-drawn doodles, swinging spiders — and a little AI robot that answers questions about me.
